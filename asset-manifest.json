@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/loginform/static/css/main.938bca0e.css",
+    "main.js": "/loginform/static/js/main.4fceccfd.js",
+    "static/js/787.3e128b3f.chunk.js": "/loginform/static/js/787.3e128b3f.chunk.js",
+    "static/media/hi2.png": "/loginform/static/media/hi2.171b880197e8986ab17a.png",
+    "index.html": "/loginform/index.html",
+    "main.938bca0e.css.map": "/loginform/static/css/main.938bca0e.css.map",
+    "main.4fceccfd.js.map": "/loginform/static/js/main.4fceccfd.js.map",
+    "787.3e128b3f.chunk.js.map": "/loginform/static/js/787.3e128b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.938bca0e.css",
+    "static/js/main.4fceccfd.js"
+  ]
+}
